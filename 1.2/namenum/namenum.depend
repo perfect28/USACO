@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408779595 source:f:\usaco\again\1.2\namenum\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

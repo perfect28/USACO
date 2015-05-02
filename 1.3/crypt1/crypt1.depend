@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408918450 source:f:\usaco\again\1.3\crypt1\main.cpp
+	<iostream>
+	<cstdio>
+

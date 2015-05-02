@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1413811234 source:f:\usaco\again\4.4\shuttle\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<cstring>
+	<map>
+	<queue>
+	<set>
+

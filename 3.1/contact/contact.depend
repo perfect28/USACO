@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1410531412 source:f:\usaco\again\3.1\contact\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+	<fstream>
+	<string>
+	<vector>
+

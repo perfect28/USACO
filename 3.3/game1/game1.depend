@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411270362 source:f:\usaco\again\3.3\game1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

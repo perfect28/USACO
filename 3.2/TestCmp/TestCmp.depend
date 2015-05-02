@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410696536 source:f:\usaco\again\3.2\testcmp\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+	<cstdio>
+

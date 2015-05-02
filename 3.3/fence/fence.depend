@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411032905 source:f:\usaco\again\3.3\fence\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

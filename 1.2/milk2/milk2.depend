@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408289551 source:f:\usaco\again\1.2\milk2\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

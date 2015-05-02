@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1410962841 source:f:\usaco\again\3.3\test\main.cpp
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<iostream>
+	<algorithm>
+

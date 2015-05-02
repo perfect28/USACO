@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1417237274 source:f:\usaco\again\5.4\tour\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+	<fstream>
+	<map>
+

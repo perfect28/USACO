@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1416977639 source:f:\usaco\again\5.3\milk4\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+	<fstream>
+

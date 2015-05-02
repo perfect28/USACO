@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1413369627 source:f:\usaco\again\1.3\wormhole\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+

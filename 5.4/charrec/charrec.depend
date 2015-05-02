@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1417245646 source:f:\usaco\again\5.4\charrec\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+	<fstream>
+	<string>
+

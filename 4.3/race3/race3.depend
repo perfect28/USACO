@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1412097216 source:f:\usaco\again\4.3\race3\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

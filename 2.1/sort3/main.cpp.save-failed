@@ -1,0 +1,53 @@
+/*
+ID:perfect13
+LANG:C++
+TASK:sort3
+*/
+#include <iostream>
+#include <cstdio>
+#define MAXN 1050
+using namespace std;
+
+int arr[MAXN];
+int cnt[4];
+int solve[4];
+int main()
+{
+    FILE *fin=fopen("sort3.in","r");
+    FILE *fout=fopen("sort3.out","w");
+    int n;
+    fscanf(fin,"%d",&n);
+    for(int i=1;i<=n;i++){
+        fscanf(fin,"%d",&arr[i]);
+        cnt[arr[i]]++;
+    }
+    for(int i=1;i<=n;i++){
+        switch(arr[i]){
+        case 1:
+            if (i>cnt[1])
+                solve[1]++;
+            break;
+        case 2:
+            if (i<=cnt[1]||i>cnt[1]+cnt[2])
+                solve[2]++;
+            break;
+        case 3:
+            if (i<=cnt[1]+cnt[2])
+                solve[3]++;
+            break;
+        }
+    }
+    int sum=solve[1]+solve[2]+solve[3];
+    int ans=0;
+    while(sum>4){
+        if (!(solve[1]&&solve[2]&&solve[3])) break;
+        ans+=2
+        sum-=3;
+        for(int i=1;i<=3;i++)
+            solve[i]--;
+    }
+    if (sum==4||sum==3) ans+=2;
+    if (sum==2) ans+=1;
+    fprintf(fout,"%d\n",ans);
+    return 0;
+}

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410278091 source:f:\usaco\again\2.4\comehome\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

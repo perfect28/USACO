@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1411220538 source:f:\usaco\again\3.3\camelot\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+

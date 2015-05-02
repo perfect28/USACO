@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417104195 source:f:\usaco\again\5.3\bigbrn\main.cpp
+	<cstdio>
+	<cstring>
+

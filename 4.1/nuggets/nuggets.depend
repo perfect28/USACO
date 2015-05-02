@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411372480 source:f:\usaco\again\4.1\nuggets\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

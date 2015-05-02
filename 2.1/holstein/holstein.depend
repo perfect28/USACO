@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409824580 source:f:\usaco\again\2.1\holstein\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

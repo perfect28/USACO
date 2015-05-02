@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1412007523 source:f:\usaco\again\4.3\buylow\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+

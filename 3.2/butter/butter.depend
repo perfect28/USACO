@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410695500 source:f:\usaco\again\3.2\butter\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<queue>
+

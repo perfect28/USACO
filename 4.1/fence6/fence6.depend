@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411402525 source:f:\usaco\again\4.1\fence6\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1416318987 source:f:\usaco\again\4.4\stoer_wagner\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<queue>
+

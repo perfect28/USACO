@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410583055 source:f:\usaco\again\3.2\kimbits\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

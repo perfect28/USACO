@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409210713 source:f:\usaco\again\1.5\numtri\main.cpp
+	<iostream>
+	<cstdio>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408800657 source:f:\usaco\again\1.2\dualpal\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

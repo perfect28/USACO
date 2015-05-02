@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1413477312 source:f:\usaco\again\4.3\lgame\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<cstring>
+	<string>
+

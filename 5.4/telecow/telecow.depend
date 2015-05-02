@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1417253100 source:f:\usaco\again\5.4\telecow\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<queue>
+	<fstream>
+

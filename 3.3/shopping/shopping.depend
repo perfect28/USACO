@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411095261 source:f:\usaco\again\3.3\shopping\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

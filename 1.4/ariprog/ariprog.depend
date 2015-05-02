@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1409030407 source:f:\usaco\again\1.3\ariprog\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+

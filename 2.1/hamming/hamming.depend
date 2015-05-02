@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409836263 source:f:\usaco\again\2.1\hamming\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

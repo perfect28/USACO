@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410266520 source:f:\usaco\again\2.4\cowtour\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+

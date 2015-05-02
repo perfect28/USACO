@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409815766 source:f:\usaco\again\2.1\sort3\main.cpp
+	<iostream>
+	<cstdio>
+

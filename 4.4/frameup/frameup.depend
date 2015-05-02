@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1416638296 source:f:\usaco\again\4.4\frameup\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410187871 source:f:\usaco\again\2.4\ttwo\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

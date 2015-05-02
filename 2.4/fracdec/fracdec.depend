@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410283669 source:f:\usaco\again\2.4\fracdec\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1409668220 source:f:\usaco\again\1.5\sprime\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+

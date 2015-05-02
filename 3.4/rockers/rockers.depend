@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411311879 source:f:\usaco\again\3.4\rockers\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

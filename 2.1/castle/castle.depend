@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409756712 source:f:\usaco\again\2.1\castle\main.cpp
+	<iostream>
+	<cstdio>
+

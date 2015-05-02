@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1410795483 source:f:\usaco\again\3.2\msquare\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+	<queue>
+

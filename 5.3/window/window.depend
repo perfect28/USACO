@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1417097365 source:f:\usaco\again\5.3\window\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+	<fstream>
+

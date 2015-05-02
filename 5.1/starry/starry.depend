@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1416846962 source:f:\usaco\again\5.1\starry\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
